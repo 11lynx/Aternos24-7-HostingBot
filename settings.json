@@ -2,19 +2,19 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "imgonnacream",
-    "password": "",
+    "password": "chalol78",
     "type": "offline"
   },
   "server": {
-    "ip": "W123-eREI.aternos.me",
-    "port": 18445,
+    "ip": "Lynx11_Zek-wIb3.aternos.me",
+    "port": 17844,
     "version": "",
     "try-creative": false
   },
   "position": {
     "enabled": true,
     "x": 0,
-    "y": 100,
+    "y": 200,
     "z": 0
   },
   "utils": {
